@@ -1,0 +1,27 @@
+{
+  "name": "simple-merge",
+  "version": "1.0.0",
+  "description": "Merges two objects or variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaegerMa/simple-merge.js.git"
+  },
+  "keywords": [
+    "array",
+    "merge",
+    "simple"
+  ],
+  "author": "JaegerMa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JaegerMa/simple-merge.js/issues"
+  },
+  "homepage": "https://github.com/JaegerMa/simple-merge.js#readme",
+  "dependencies": {
+    "array-unique": "^0.3.2"
+  }
+}
